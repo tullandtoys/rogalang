@@ -1,0 +1,96 @@
+js,rogalang,comment
+arguments,
+await,venta
+break,gje deg
+case,tilfelle
+catch,fang
+class,KLASSE
+const,konst
+continue,vidare
+debugger,
+default,
+delete,fjern
+do,gjer
+else,elle
+enum,
+eval,
+export,send ud
+extends,udvi
+false,raoaradl
+finally,endele
+for,for kvar einaste
+function,
+if,viss
+implements,
+import,ta inn
+in,i
+instanceof,
+interface,
+let,
+new,nye
+null,inkje
+package,
+private,pillefygert
+protected,gjømte
+public,offentle
+return,spytt ud
+static,
+super,græla
+switch,
+this,
+throw,heilt texas
+true,forrektigt
+try,prøv
+typeof,
+var,
+void,tomt
+while,imens
+with,me
+yield,gje
+=,æ
++=,øge mæ
+-=,minke mæ
+*=,ganges mæ
+/=,deles mæ
+%=,moduleres mæ
+**=,eksponensieres mæ
+<<=,venstreskiftes mæ
+>>=,høgreskiftes mæ
+>>>=,høgreskiftes usignert mæ
+&=,bedevis AO mæ
+^=,bedevis INKJE mæ
+|=,bedevis ELLE mæ
+&&=,AO mæ
+||=,ELLE mæ
+??=,njaast mæ
++,aog mæ 
+-,ta i frå
+*,gange me
+/,delt me
+%,rest frå deling på
+++,aog mæ ein
+--,trekk frå ein
+==,likt mæ
+===,græla likt mæ
+!=,græla ulikt
+!==,ulikt
+>,græla større enn
+<,græla mindre enn
+>=,større enn
+<=,mindre enn
+&&,AO
+||,ELLE
+!,INKJE
+&,bedevis AO
+|,bedevis ELLE
+^,bedevis betinga ombytting
+~,bedevis INKJE
+<<,venstreskift
+>>,høgreskift
+>>>,høgreskift usignert
+?,?
+:,:
+console.log,sei
+  ,herliga london
+ ,jille
+typeof,typeof
