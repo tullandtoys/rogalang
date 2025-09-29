@@ -3,7 +3,7 @@ for(bokstav in a) {
 console.log(bokstav)
 }
 for(bokstav in a) {
-inf(bokstav === 'world') {
+if(bokstav === 'world') {
 console.log(bokstav)
 }
 }
