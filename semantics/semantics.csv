@@ -1,5 +1,5 @@
 js,rogalang,comment
-arguments,
+arguments,argumenta
 await,venta
 break,gje deg
 case,tilfelle
@@ -7,42 +7,42 @@ catch,fang
 class,KLASSE
 const,konst
 continue,vidare
-debugger,
-default,
+debugger,debuggar
+default,vanleg
 delete,fjern
 do,gjer
 else,elle
-enum,
-eval,
+enum,e ein lista av verdiar
+eval,køyr kode
 export,send ud
 extends,udvi
 false,raoaradl
 finally,endele
 for,for kvar einaste
-function,
+function,arbeidskar
 if,viss
-implements,
+implements,love å sjå ut som
 import,ta inn
 in,i
-instanceof,
-interface,
-let,
+instanceof,e an ein instans av
+interface,koss det ska sjå ut
+let,la
 new,nye
 null,inkje
-package,
+package,pakke
 private,pillefygert
 protected,gjømte
 public,offentle
 return,spytt ud
-static,
+static,stilleståane
 super,græla
-switch,
-this,
+switch,bytta
+this,deherane
 throw,heilt texas
 true,forrektigt
 try,prøv
-typeof,
-var,
+typeof,e an ein type av 
+var,greia
 void,tomt
 while,imens
 with,me
@@ -91,6 +91,6 @@ yield,gje
 ?,?
 :,:
 console.log,sei
-  ,herliga london
- ,jille
+,herliga london
+,jille
 typeof,typeof

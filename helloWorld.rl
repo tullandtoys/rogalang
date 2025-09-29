@@ -13,7 +13,17 @@ jille for kvar einaste(bokstav i a) {
 jille }
 
 herliga london
+jille sei(`Dette e ein test 
+jille egentlig. 2+2 = ${2+2}`)
 
+herliga london
 jille for kvar einaste(bokstav i a) {
     jille sei(bokstav)
 jille }
+
+
+
+herliga london
+
+
+asdsad
