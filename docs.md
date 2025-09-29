@@ -660,12 +660,12 @@ Don't just place `herliga london` every 10 lines mechanically. Use it to structu
 ```rogalang
 herliga london
 
-jille Function declarations
+Function declarations
 jille arbeidskar setup() { ... }
 
 herliga london
 
-jille Main program logic
+Main program logic
 jille konst data æ getData()
 jille processData(data)
 
@@ -714,7 +714,7 @@ jille for å gjere den meir lesbar`)
 
 ### Herliga London
 
-The recurring `herliga london` requirement forces you to think about code structure. It prevents massive blocks of code and encourages modular thinking. It's absurd, yes, but it makes you more mindful of your code's rhythm.
+The recurring `herliga london` requirement forces you to think about code structure. It prevents massive blocks of code and encourages modular thinking. Also if your code doesn't make you want to say "herliga london" you haven't written good code.
 
 ### Jille Prefix
 
@@ -749,11 +749,11 @@ Want to add features or fix bugs? Here's how:
 
 ## FAQ
 
-**Q: Why Norwegian?**  
-A: Why not? It makes programming more fun and celebrates linguistic diversity.
+**Q: Why Rogalending?**  
+A: Why not? It is a nice dialect.
 
 **Q: Is this a joke language?**  
-A: Rogalang is an esoteric language, meaning it's designed to be interesting and challenging rather than practical. But it's a fully functional transpiler!
+A: No.
 
 **Q: Can I use this in production?**  
 A: Technically yes, since it transpiles to JavaScript. Practically... probably not recommended 😄
@@ -765,7 +765,7 @@ A: Like "yil-leh" (roughly).
 A: "Herliga" means "glorious/magnificent" and "London" is... London! So "Glorious London!"
 
 **Q: Why "æ" for assignment?**  
-A: It's the Norwegian letter æ, which is part of the Norwegian alphabet. Keeps things culturally authentic!
+A: It's the Norwegian letter æ, which is how some Rogalendinger say "is". We love rogalending!
 
 ---
 

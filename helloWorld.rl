@@ -14,7 +14,7 @@ jille }
 
 herliga london
 jille sei(`Dette e ein test 
-jille egentlig. 2+2 = ${2+2}`)
+jille egentlig. 2+2 = ${2 aog mæ 2}`)
 
 herliga london
 jille for kvar einaste(bokstav i a) {
