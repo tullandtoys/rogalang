@@ -1,16 +1,68 @@
-# rogalang
+# Rogalang 🇳🇴
 
-Every line must start with "jille"
-Lines without "jille" are comments
+A Rogaland-inpsired esoteric programming language respecting the culture of the region that transpiles to JavaScript. Because programming should be an artform, not a chore!
 
-At least every ten lines, the keyword "Herliga London" must appear, for performance reasons.
+## Quick Start
 
-Here at tullandtoys programming we believe that programming shouldn't be a chore; it should be an artform. Therefore, the first line has to be 'herliga london' (case insensitive of course ;))
+### Installation
 
-Rogaland is a camelCase language. To ensure this, you can never use the symbol "_" at any point.
+```bash
+git clone https://github.com/tullandtoys/rogalang.git
+cd rogalang
+python3 -m venv .venv
+source .venv/bin/activate  # On Windows: .venv\Scripts\activate
+pip install pandas
+```
 
-## Roadmap
- - There should be a way to check that herliga london placement is not predictable so that programming in Rogalang never turns boring
+### Your First Rogalang Program
 
- ## TODO
- - Replace weird string replacement with string split
+Create a file called `hello.rl`:
+
+```rogalang
+herliga london
+
+jille konst melding æ 'Hei verden!'
+jille sei(melding)
+
+herliga london
+```
+
+Run it:
+
+```bash
+python transpiler.py > output.js
+node output.js
+```
+
+## Core Rules
+
+1. **Every line must start with `jille`** - Lines without it are comments
+2. **First line must be `herliga london`** - For performance reasons (and style!)
+3. **`herliga london` every 10 lines max** - Keeps your code fresh and exciting
+4. **CamelCase only** - No underscores (`_`) allowed anywhere
+5. **Rogalandske keywords** - `konst` instead of `const`, `sei` instead of `console.log`, etc.
+
+## Example
+
+```rogalang
+herliga london
+
+jille konst tall æ [1, 2, 3, 4, 5]
+jille for kvar einaste(nummer i tall) {
+jille     sei(nummer)
+jille }
+
+herliga london
+```
+
+## Documentation
+
+For comprehensive language documentation, see [docs.md](docs.md).
+
+## Contributing
+
+Feel free to submit PRs! Remember: no underscores allowed in your code! 😄
+
+## License
+
+See [LICENSE](LICENSE) file.
